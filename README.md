@@ -1,1 +1,1 @@
-#### Data Stucure
+#### Data Strucure
