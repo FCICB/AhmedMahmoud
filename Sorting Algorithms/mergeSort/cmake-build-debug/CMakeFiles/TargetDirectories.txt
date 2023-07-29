@@ -1,0 +1,3 @@
+/home/ahmed/CLionProjects/mergeSort/cmake-build-debug/CMakeFiles/mergeSort.dir
+/home/ahmed/CLionProjects/mergeSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ahmed/CLionProjects/mergeSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
